@@ -1,0 +1,6 @@
+f = open("demo.txt","r")
+data = f.read()
+print(data)
+print(type(data))
+data5 = f.read()
+print(data5)
