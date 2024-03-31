@@ -1,1 +1,2 @@
-i am learning python by apna college
+abcant to learn javascript
+ After that nodejs
